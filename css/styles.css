@@ -5,22 +5,12 @@ main{
     color: #f5f5f5;
 }
 .image-view {
-    padding-top: 100px;
+    padding-top: 200px;
 }
 .tech-stack{
     margin-top: 150px;
     margin-bottom: 100px;
 }
 
-.custom-button{
-    padding: 10px 35px;
-    background: #4078c0;
-    color: white;
-    list-style: none;
-}
-.custom-button:hover{
-    text-decoration: none;
-    color: white;
-}
 
 
